@@ -14,6 +14,7 @@ This research aims to analyze the limitations of conventional Web Application Fi
 ## Strengths
 * Detects HTTP Flood and GoldenEye.
 * Real-time detection
+* Blocks malicious reuqests.
 
 ## Limitations
 * Dataset and codes were hardcoded. Results may be slightly biased.
