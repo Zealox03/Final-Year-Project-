@@ -7,6 +7,9 @@ This research aims to analyze the limitations of conventional Web Application Fi
 ## Theoretical Framework
 ![image alt](https://github.com/Zealox03/Final-Year-Project-/blob/main/framework.jpeg?raw=true)
 
+## Result
+![image alt](https://github.com/Zealox03/Final-Year-Project-/blob/main/result.jpeg?raw=true)
+
 ## Key Features 
 * Developed with Python programming language.
 * Machine learning pipeline was developed with Jupyter Notebook. Evaluations are made on Logistic Regression, Heuristic Model (Conventional WAF), and Random Forest.
